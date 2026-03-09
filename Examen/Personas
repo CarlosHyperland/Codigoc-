@@ -1,0 +1,22 @@
+#incluid <iostream>
+using namespaces std;
+
+Class Persona{
+	//atributos 
+	protected : string nombres, apellidos, direccion,fecha_nacimiento;
+		  int telefono;
+
+	//construtor
+		  persona(){
+		  }
+		  Persona
+
+	//metodo (CRUD)
+	void crear ();
+	void leer ();
+	void actulizar ();
+	void borrar()
+	
+
+
+};
